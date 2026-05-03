@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+mediapipe
+deepface
+tf-keras
+tensorflow
+pandas
+matplotlib

@@ -2,14 +2,6 @@ streamlit
 opencv-python-headless
 mediapipe
 deepface
-tf-keras
-tensorflow
-pandas
-matplotlib
-streamlit
-opencv-python-headless
-mediapipe
-deepface
 tensorflow-cpu==2.15.0
 pandas
 matplotlib
